@@ -1,4 +1,5 @@
 baseURL = "https://slightlyconfused.app/"
 languageCode = "en-us"
 title = "Your Site Title"
-theme = "gohugo-theme-ananke"  # <- Updated theme
+theme = "hugo-theme-mini"
+
