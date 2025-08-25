@@ -4,6 +4,6 @@
 
 [build.environment]
   # Set extended Hugo version
-  HUGO_VERSION = "0.116.0"
+  HUGO_VERSION = "0.115.0"
   HUGO_EXTENDED = "true"
 
